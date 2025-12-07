@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "create-synchai-expense-tracker-app",
+  "name": "synchai-expense-tracker",
   "icons": [
   {
     "src": "icon.png",
